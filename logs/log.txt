@@ -1,0 +1,13 @@
+"2018-11-03T12:42:34.446Z" : Database Connected
+"2018-11-03T12:42:34.449Z" : Database Created
+"2018-11-03T12:42:34.450Z" : Using Database
+"2018-11-03T12:42:35.397Z" : Tables Created
+"2018-11-03T12:42:35.397Z" : Database connection verified !!
+"2018-11-03T12:43:42.128Z" : https://www.imdb.com/title/tt1229340/
+"2018-11-03T12:43:42.598Z" : Made Entry In Database
+"2018-11-03T12:45:33.689Z" : https://www.imdb.com/title/tt1229340/
+"2018-11-03T12:45:33.940Z" : Made Entry In Database
+"2018-11-03T12:46:19.898Z" : https://www.imdb.com/title/tt1229340/
+"2018-11-03T12:46:20.178Z" : Made Entry In Database
+"2018-11-03T12:46:43.544Z" : https://www.imdb.com/title/tt1229340/
+"2018-11-03T12:46:43.865Z" : Made Entry In Database
